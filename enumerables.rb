@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# basic project module
 module Enumerable
   def all?(&block)
     result = true
